@@ -1,0 +1,31 @@
+.plus_icon{
+     height: 20px;
+     width: 20px;
+}
+
+.todo_input_rapper{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(213, 211, 207);
+
+}
+
+.todo_input_rapper input{
+  background-color:  rgb(213, 211, 207);
+  border: 0;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.todo_input_rapper button {
+    background-color: rgb(202, 252, 235);
+    color: rgb(23, 199, 140);
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    
+}

@@ -1,0 +1,38 @@
+.todo_item_rapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    background-color: rgb(204, 202, 200);
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.todo_item_text{
+    display: flex;
+    gap:10px
+ 
+}
+.todo_item_button{
+display: flex;
+gap:10px;
+}
+
+.todo_item_button button{
+    padding: 10px;
+}
+
+.todo_item_button svg{
+    width: 20px;
+    height: 20px;
+}
+
+.pencil_button{
+    color: rgb(116, 196, 245);
+    border: 1px solid rgb(2, 133, 199);
+}
+
+.tarsh_button{
+    color: rgb(239, 122, 122);
+    border: 1px solid rgb(200, 76, 76);
+}
