@@ -1,4 +1,4 @@
-# TO-DO-app
+# TODO-APP
 
 This is a React.js To-do app . It shows all benefits of creating websites using React.js 
 
