@@ -8,7 +8,8 @@ React <br>
 CSS <br>
 axios <br>
 Redux <br>
-eslint(linter) <br>
+UUI <br>
+HeroIcons<br>
 prettier(code formating) <br>
 Links <br> <br>
 
