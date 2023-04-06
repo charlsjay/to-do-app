@@ -1,4 +1,4 @@
-<h3>Furniture shop page</h3>
+<h3>To-do app shop page</h3>
 <hr>
 
 This is a React.js furniture-shop website was built as graduation project. It shows all benefits of creating websites using React.js 
@@ -7,7 +7,6 @@ This is a React.js furniture-shop website was built as graduation project. It sh
 React <br>
 CSS <br>
 axios <br>
-styled-components <br>
 Redux <br>
 eslint(linter) <br>
 prettier(code formating) <br>
